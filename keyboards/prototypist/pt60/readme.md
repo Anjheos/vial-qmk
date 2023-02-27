@@ -1,6 +1,6 @@
 # prototypist/pt60
 
-![prototypist/pt60](imgur.com image replace me!)
+![prototypist/pt60](https://imgur.com/Iu3QwxR.png)
 
 *Proto[Typist] Keyboards' first ever in-house universal 60% PCB designed by Josh (Anjheos). 
 Features various physical layouts available to fit multiple regional and bottom row layouts.
@@ -8,7 +8,7 @@ Default layout is in ISO.*
 
 * Keyboard Maintainer: [Josh @ Prototypist](https://github.com/Anjheos)
 * Hardware Supported: *PT-60J PCB and PT-60C PCB*
-* Hardware Availability: *prototypist.net*
+* Hardware Availability: [Proto[Typist]](https://prototypist.net)
 
 Make example for this keyboard (after setting up your build environment):
 
