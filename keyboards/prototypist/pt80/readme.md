@@ -12,12 +12,14 @@ Default layout is in ISO.*
 
 Make example for this keyboard (after setting up your build environment):
 
+    make prototypist/pt80:vial
     make prototypist/pt80:via
     make prototypist/pt80:default_ansi
     make prototypist/pt80:default_iso
 
 Flashing example for this keyboard:
 
+    make prototypist/pt80:vial:flash
     make prototypist/pt80:via:flash
     make prototypist/pt80:default_ansi:flash
     make prototypist/pt80:default_iso:flash
