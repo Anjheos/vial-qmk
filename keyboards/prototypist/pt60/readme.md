@@ -24,6 +24,9 @@ Flashing example for this keyboard:
 
 See the [build environment setup](https://docs.qmk.fm/#/getting_started_build_tools) and the [make instructions](https://docs.qmk.fm/#/getting_started_make_guide) for more information. Brand new to QMK? Start with our [Complete Newbs Guide](https://docs.qmk.fm/#/newbs).
 
+* Unlock Keys for Vial Configuration:
+![pt60/vial-unlock](https://i.imgur.com/pLKDKuh.png)
+
 ## Bootloader
 
 Enter the bootloader in 3 ways:
